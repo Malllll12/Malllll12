@@ -3,7 +3,7 @@
 
 
 <h1 align="left"> I'm Mallory Vining</h1>
-<h3 align="left">A ✨chaotic good✨ Backend Developer from Denver, CO</h3>
+<h3 align="left">A ✨chaotic good✨ Full Stack Developer from Denver, CO</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malllll12&label=Profile%20views&color=0e75b6&style=flat" alt="malllll12" /> </p>
 
